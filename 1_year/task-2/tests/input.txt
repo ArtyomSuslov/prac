@@ -1,0 +1,29 @@
+"Moscow" "Saint-Petersburg" "plane" 60 7000
+"Saint-Petersburg" "Moscow" "plane" 60 7500
+
+"Moscow" "Tver" "train" 180 200
+"Tver" "Moscow" "train" 200 200
+
+"Tver" "Bologoe" "train" 120 150
+"Bologoe" "Tver" "train" 120 150
+
+"Bologoe" "Novgorod Velikii" "train" 140 250
+"Novgorod Velikii" "Bologoe" "train" 140 250
+
+"Bologoe" "Saint-Petersburg" "train" 240 400
+"Saint-Petersburg" "Bologoe" "train" 240 400
+
+"Moscow" "Tver" "bus" 240 600
+"Tver" "Moscow" "bus" 240 600
+
+#
+# обратного рейса нет
+#
+
+"Saint-Petersburg" "Tver" "bus" 420 3000
+
+"Novgorod Velikii" "Saint-Petersburg" "bus" 180 500
+"Saint-Petersburg" "Novgorod Velikii" "bus" 180 500 
+
+"Saint-Petersburg" "Bologoe" "bus" 180 1000
+"Bologoe" "Saint-Petersburg" "bus" 180 1000

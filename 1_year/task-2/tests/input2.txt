@@ -1,0 +1,14 @@
+"Moscow" "Kaluga" "TheBoat" 3 3
+
+"Kaluga" "Surgut" "TheBoat" 3 3
+
+"Surgut" "Canada" "TheBoat" 2 1
+
+
+"Moscow" "Village" "TheBoat" 999 999
+"Moscow" "Village" "Flying" 999 1
+"Moscow" "Village" "Horse" 999 1
+
+"Village" "Canada" "TheBoat" 999 999
+"Village" "Canada" "Flying" 2 1
+"Village" "Canada" "Horse" 2 1

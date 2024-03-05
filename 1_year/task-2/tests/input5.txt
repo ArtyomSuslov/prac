@@ -1,0 +1,11 @@
+"Moscow" "Bologoe" "train" 2 5
+"Bologoe" "Canada" "plane" 1 4
+
+"Moscow" "Surgut" "plane" 2 3
+"Surgut" "Canada" "plane" 1 4
+
+"Moscow" "Perm" "bus" 1 1
+"Perm" "Irkutsk" "train" 1 2
+"Irkutsk" "Canada" "plane" 1 1
+
+"Moscow" "Canada" "superjet" 5 2

@@ -1,0 +1,24 @@
+"A" "B" "plane" 4 9
+"A" "C" "bus" 2 4
+"A" "E" "boat" 10 2
+
+"B" "H" "jet" 3 15
+"B" "E" "boat" 8 16
+"B" "I" "boat" 10 4
+"B" "D" "horse" 8 8
+
+"C" "F" "car" 5 2
+"C" "E" "train" 9 6
+
+"D" "G" "jet" 3 12
+ 
+"E" "H" "train" 8 4
+"E" "G" "plane" 3 11
+"E" "D" "plane" 9 11
+
+"F" "I" "train" 3 15
+"F" "H" "bus" 6 10
+
+"G" "I" "horse" 11 4
+
+"H" "I" "car" 3 10

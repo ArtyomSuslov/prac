@@ -1,0 +1,11 @@
+"m" "s" "train" 60 40
+# dhfhdfh dfhdfh
+"s" "m" "train" 50 50
+"m" "o" "train" 100 80
+"n" "o" "train" 40 30
+"n" "o" "bus" 30  40
+"o" "n" "bus" 50 50
+"s" "o" "train" 50 20
+"m" "n" "train" 70 30
+"n" "m" "train" 65 55
+"n" "s" "train" 60 10

@@ -1,0 +1,32 @@
+"Moscow" " Surgut" "TheBoat" 1 2
+
+"Moscow" "Village" "Horse" 1 999
+
+"Surgut" "Canada" "Flying" 3 2
+
+"Village" "Canada" "TheBoat" 1 5
+
+"Town1" "Town2" "1" 1 1
+"Town1" "Town2" "2" 1 1
+"Town1" "Town2" "3" 1 1
+"Town1" "Town2" "4" 1 1
+"Town1" "Town2" "5" 1 1
+"Town1" "Town2" "6" 1 1
+"Town1" "Town2" "7" 1 1
+"Town1" "Town2" "8" 1 1
+"Town1" "Town2" "9" 1 1
+"Town1" "Town2" "10" 1 1
+"Town1" "Town2" "11" 1 1
+"Town1" "Town2" "12" 1 1
+"Town1" "Town2" "13" 1 1
+"Town1" "Town2" "14" 1 1
+"Town1" "Town2" "15" 1 1
+"Town1" "Town2" "16" 1 1
+"Town1" "Town2" "17" 1 1
+"Town1" "Town2" "18" 1 1
+"Town1" "Town2" "19" 1 1
+"Town1" "Town2" "20" 1 1
+"Town1" "Town2" "21" 1 1
+"Town1" "Town2" "22" 1 1
+"Town1" "Town2" "23" 1 1
+"Town1" "Town2" "24" 1 1

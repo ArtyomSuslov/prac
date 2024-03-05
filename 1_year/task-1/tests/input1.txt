@@ -1,0 +1,6 @@
++ 10:2147483647/1 ; proveryaem MaxLongint
++ 10:-2147483648/1 ; proveryaem -MaxLongint-1
+
+finish
+
+dolshno vivesti chislo -1

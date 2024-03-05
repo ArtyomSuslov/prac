@@ -1,0 +1,5 @@
++ 71:123/321
+
+finish
+
+osnovanie SS ne v [2, 70]
